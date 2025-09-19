@@ -4,7 +4,7 @@
 This repository provides a curated list of URL shortening service domains, including both **free** and **paid** options. It is intended as a reference for developers, researchers, and security professionals who want to analyze, block, or integrate URL shorteners in their projects.
 
 ## Contents
-- `list.txt`: A complete list of **4,653** URL shortening service domains (free and paid).
+- `list.txt`: A complete list of URL shortening service domains (free and paid).
 
 ## Use Cases
 - **Developers**: Integrate shorteners into applications or analyze redirection patterns.
